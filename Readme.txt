@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+I updated this file now
 
 Template Name: BizLand
 Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
